@@ -1,29 +1,30 @@
-Cybersecurity Home Lab
+# Cybersecurity Home Lab
 
-This project demonstrates a simple isolated cybersecurity laboratory environment.
+This project demonstrates a simple isolated cybersecurity laboratory environment built for networking and cybersecurity fundamentals.
 
-SETUP:
+## Setup
 - Ubuntu Server VM
 - Kali Linux VM
-- Internal network (VirtualBox)
+- Internal VirtualBox network (labnet)
 
-NETWORK:
+## Network
 - Private isolated network (labnet)
 - No external internet exposure
+- Manual IP configuration
 
-ACTIVITIES:
+## Activities
 - Network connectivity testing (ping)
-- Packet capture using Wireshark
-- Basic Linux system interaction
+- Packet capture and analysis using Wireshark
+- Basic Linux system interaction and configuration
 
-TOOLS USED:
+## Tools Used
 - VirtualBox
 - Ubuntu Server
 - Kali Linux
 - Wireshark
 
-WHAT I LEARNED:
-- Basic networking (IP, ping, communication)
-- Virtual machine infrastructure
-- Network traffic analysis
-- Linux fundamentals
+## What I Learned
+- Basic networking concepts (IP, communication, ping)
+- Virtual machine infrastructure and isolation
+- Network traffic analysis and packet inspection
+- Linux system fundamentals
